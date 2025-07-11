@@ -1,8 +1,9 @@
 This repository contains a Jupyter Notebook exercise where you will implement Forward Propagation.
 
 What you should expect to learn from this exercise:
-- How to implement the forward pass of a neural network.
-- How to use ReLU and Sigmoid functions.
+- You will be able to implement the forward propagation step in a simple nn.
+- You will understand how data flows in simple nns using NumPy.
+- You will learn how to use ReLU and Sigmoid functions.
 
 Make sure you have Docker installed. Then run the following commands:
 
