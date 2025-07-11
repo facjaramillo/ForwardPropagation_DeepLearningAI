@@ -12,6 +12,8 @@ Make sure you have Docker installed. Then run the following commands:
 - docker build -t nn-exercise .
 - docker run -p 8888:8888 nn-exercise
 
+Note: If you have any issue running the docker commands, try replacing "docker" for "sudo docker".
+
 Then open your browser and go to http://localhost:8888 to access the notebook.
 
 This repository contains the following files:
